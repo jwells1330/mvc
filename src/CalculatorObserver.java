@@ -1,5 +1,5 @@
 
 public interface CalculatorObserver {
 
-	void update(String value);
+  void update(String value);
 }
